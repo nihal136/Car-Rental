@@ -1,0 +1,11 @@
+ Car Models               Rental Price(Rs.)
+ 1.Swift Dzire                           950
+ 2.Tata Hexa                           1000
+ 3.Hyundai i10                         1050
+ 4.Hyundai Creta                     1100
+ 5.Maruti Suzuki Ertiga          1150
+ 6.Renault Duster                   1200
+ 7.Toyota Innova Crysta        1250
+ 8.Ford EcoSport                    1300
+ 9.Toyota Fortuner                 1350
+10.Hyundai Venue                  1400
